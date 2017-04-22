@@ -7,7 +7,6 @@ It also included downloading and installing various softwares including librarie
 The following softwares were installed :
 
  ->Python (ver 2.7)
-   
    -->numpy
    -->Open CV
    
